@@ -1,2 +1,2 @@
 # Trivia
-A Trivia app with Questions from Open Trivia DB built for iOS 15
+A Trivia game app for iOS 15 made with SwiftUI
