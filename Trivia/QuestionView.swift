@@ -22,7 +22,7 @@ struct QuestionView: View {
             ProgressBar(progress: 70)
             
             VStack(alignment: .leading, spacing: 20){
-                Text("Greenland is covered with grass and Iceland covered with ice.")
+                Text("Greenland is covered with grass and Iceland covered with ice")
                     .font(.system(size: 20))
                     .fontWeight(.bold)
                     .foregroundColor(.gray)
